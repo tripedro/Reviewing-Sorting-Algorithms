@@ -1,10 +1,5 @@
 #include <iostream>
 using namespace std;
-  
-// Selection Sort
-// Bubble Sort
-// Merge Sort
-// Quick Sort
 
 // Function to sort an array using 
 // Insertion Sort
